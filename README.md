@@ -1,6 +1,6 @@
 
 # Home Loan Analysis
-![image alt]()
+![image alt](https://github.com/SyedAliNice/Home-Loan-prediction-using-ANN/blob/17221ff176dc1743e5c99767b01e302b607817fa/a-digital-illustration-of-a-modern-home-_gao_0TshRRyR1KEXki94jA_Vp0dF49uSRioFvr9k9SARQ-fotor-20250328143310.jpg)
 #   Overview
 
 
